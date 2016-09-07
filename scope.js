@@ -16,6 +16,8 @@ var myObject = {
     init: function () {
         this.bindEvent();
     }
+
+    someMetjpd
 };
 
 myObject.init();
