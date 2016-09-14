@@ -4,7 +4,7 @@ var myObject = {
     },
 
     buttonAction: function () {
-        var val = $("button").val();
+        var val = $("input").val();
         this.alertMessage( val );
         $("button").fadeOut();
     },

@@ -16,7 +16,7 @@ $(document).ready(function () {
         },
 
         /**
-         *bind click to add-player
+         * bind click to add-player
          * create var playerName and binding the value of the input
          * validation : verify if playerName is true
          * create var li that contains string HTML
@@ -56,5 +56,4 @@ $(document).ready(function () {
      * call method bindEvent of object Game
      */
    Game.bindEvent();
-
 });
